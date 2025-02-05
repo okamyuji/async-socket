@@ -13,8 +13,7 @@ async-socket/
 │   ├── AsyncSocketClient.java      # 非同期ソケットクライアント
 │   ├── AsyncSocketClientTest.java  # クライアントのユニットテスト
 │── lib/                            # JUnit 5 & Mockito ライブラリ
-│── build.gradle (Gradle を使用する場合)
-│── pom.xml (Maven を使用する場合)
+│── build.gradle                    # Gradle のビルド設定
 ```
 
 ---
