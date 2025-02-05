@@ -1,0 +1,43 @@
+# Ignore Gradle build directory
+/build/
+/.gradle/
+
+# Ignore compiled Java class files
+/**/*.class
+
+# Ignore JAR files
+/**/*.jar
+
+# Ignore IntelliJ IDEA project files
+/.idea/
+/*.iml
+
+# Ignore Eclipse project files
+/.settings/
+/.classpath
+/.project
+
+# Ignore Maven target directory
+/target/
+
+# Ignore temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Ignore test results
+/test-results/
+/test-output/
+
+# Ignore dependency libraries
+/lib/
+
+# Ignore Gradle wrapper binaries
+/gradle/
+/gradlew
+/gradlew.bat
+
+# Ignore generated MANIFEST files
+/META-INF/
+
